@@ -1,5 +1,6 @@
 Elasticsearch Query DSL
 =======================
+[![Gem Version](https://badge.fury.io/rb/elasticsearch-query-dsl.svg)](http://badge.fury.io/rb/elasticsearch-query-dsl)
 
 Ruby block DSL for writing ElasticSearch queries
 

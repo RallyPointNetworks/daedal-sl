@@ -1,5 +1,6 @@
 DaedalSL
 =======================
+[![Gem Version](https://badge.fury.io/rb/daedal-sl.svg)](http://badge.fury.io/rb/daedal-sl)
 
 Ruby block DSL for writing ElasticSearch queries built on Daedal
 

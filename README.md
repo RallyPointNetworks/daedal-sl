@@ -1,8 +1,7 @@
-Elasticsearch Query DSL
+DaedalSL
 =======================
-[![Gem Version](https://badge.fury.io/rb/elasticsearch-query-dsl.svg)](http://badge.fury.io/rb/elasticsearch-query-dsl)
 
-Ruby block DSL for writing ElasticSearch queries
+Ruby block DSL for writing ElasticSearch queries built on Daedal
 
 License
 -------

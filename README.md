@@ -34,7 +34,7 @@ some_data = Hashie::Mash.new({
   bar: 'barbar'
 })
 
-query = DaedalSL.build(data) do
+query = DaedalSL.build(some_data) do
   query do
     bool_query boost: 100 do
       must do

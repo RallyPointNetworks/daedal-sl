@@ -1,6 +1,8 @@
+require File.expand_path('../lib/daedal-sl/version', __FILE__)
+
 Gem::Specification.new do |s|
   s.name        = 'daedal-sl'
-  s.version     = '0.0.0'
+  s.version     = DaedalSL::VERSION
   s.summary     = "Ruby block DSL for writing ElasticSearch queries"
   s.description = "Ruby block DSL for writing ElasticSearch queries"
   s.authors     = ["Christopher Schuch"]

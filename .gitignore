@@ -6,3 +6,4 @@
 
 # Ignore gem builds
 *.gem
+/tmp

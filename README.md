@@ -9,7 +9,7 @@ Installation
 
 From the terminal:
 ``` terminal
-$ gem install daedal
+$ gem install daedal-sl
 ```
 
 or in your `Gemfile`:

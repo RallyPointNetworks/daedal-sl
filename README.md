@@ -15,13 +15,13 @@ $ gem install daedal
 or in your `Gemfile`:
 
 ``` ruby
-gem 'daedal'
+gem 'daedal-sl'
 ```
 
 Then, it's as simple as including the line:
 
 ``` ruby
-require 'daedal'
+require 'daedal-sl'
 ```
 
 Usage

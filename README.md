@@ -26,7 +26,7 @@ require 'daedal-sl'
 
 Usage
 --------
-Coming soon... but here's an example:
+Coming soon... but here's an example. Note: Anything you pass into the optional parameter on `DaedalSL`'s `#build` method is accessible within the block via `data`.
 
 ``` ruby
 some_data = Hashie::Mash.new({
